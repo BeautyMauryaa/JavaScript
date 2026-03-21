@@ -9,25 +9,13 @@ This repo covers **everything from scratch to advanced** — with real hands-on 
 
 This repository includes:
 
-- **basics & operators** – Learn fundamentals of JS  
-- **functions & arrays** – Deep dive into reusable logic  
-- **DOM Manipulation Part 1** – Target and play with HTML elements  
-- **DOM Manipulation Part 2** – Advanced DOM tasks and event handling  
-- **Events & Forms** – Real use-case examples of user interactions  
-- **JS Practice Files** – Practice problems with solutions  
-- **JS Projects by Harry** – Follow-along projects with explanation  
-- **Classes & Objects in JS** – OOP concepts in JavaScript  
-
-Also included:
-
--  `autopush.bat`: Auto GitHub push helper  
--  `eventpractice.css`: Styling practice  
--  `eventpractice.html`: Real DOM and events in action  
-
----
+-  fundamentals of JS  
+- functions & arrays 
+- Events and Dom
+- JS Practice Files
+- Classes & Objects in JS
 
 ## Ideal For
-
 - Beginners learning JavaScript from scratch  
 - Intermediate devs revising core concepts  
 -  Anyone building their logic for real-time projects  
@@ -40,7 +28,7 @@ Also included:
 Clone the repo:
 
 ```bash
-git clone https://github.com/Beautymaurya28/Complete-JavaScript.git
+git clone https://github.com/BeautyMauryaa/Java-Script.git
 ```
 
 ---
